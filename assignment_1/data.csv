@@ -1,0 +1,19 @@
+Roll,Name,Gender,Age,marks1,marks2,result
+1,"Behr, Mr. Karl Howell",male,26,56,77,1
+2,"Dooley, Mr. Patrick",male,32,56,77,0
+3,"Behr, Mr. Karl Howell",male,26,56,77,1
+4,"Dooley, Mr. Patrick",male,32,56,77,1
+5,"Behr, Mr. Karl Howell",male,26,56,77,1
+6,"Dooley, Mr. Patrick",male,32,56,77,1
+7,"Behr, Mr. Karl Howell",male,26,56,77,1
+8,"Dooley, Mr. Patrick",male,32,,77,1
+9,"Behr, Mr. Karl Howell",male,26,,77,1
+10,"Dooley, Mr. Patrick",male,32,56,77,0
+11,"Behr, Mr. Karl Howell",male,26,56,77,0
+12,"Dooley, Mr. Patrick",male,32,56,,0
+13,"Behr, Mr. Karl Howell",male,26,56,,0
+14,"Dooley, Mr. Patrick",male,32,56,77,
+15,"Behr, Mr. Karl Howell",male,26,56,77,
+16,"Dooley, Mr. Patrick",male,32,56,77,1
+17,"Behr, Mr. Karl Howell",male,26,56,77,0
+18,"Dooley, Mr. Patrick",male,32,56,77,1
